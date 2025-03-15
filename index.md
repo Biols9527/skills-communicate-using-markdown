@@ -9,3 +9,8 @@ aaaaaaa
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+#### list
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
